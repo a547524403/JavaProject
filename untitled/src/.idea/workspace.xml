@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd4cf8c7-9691-490f-9ba2-66df9c60f75c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1Ztj7E2kPCgCphJGgc4smbphkye" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/testng-6.9.9.jar" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd4cf8c7-9691-490f-9ba2-66df9c60f75c" name="Default Changelist" comment="" />
+      <created>1585665114245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585665114245</updated>
+      <workItem from="1585665115475" duration="117000" />
+      <workItem from="1585665249579" duration="132000" />
+      <workItem from="1585665397224" duration="777000" />
+      <workItem from="1585666197639" duration="104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="76" key="#Java" timestamp="1585666221432">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Java/0.0.1536.834/1920.0.2560.1050@0.0.1536.834" timestamp="1585666221432" />
+    <state x="223" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585666290417">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.2560.1050@0.0.1536.834" timestamp="1585666290417" />
+    <state x="521" y="259" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585665719016">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="521" y="259" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.834/1920.0.2560.1050@0.0.1536.834" timestamp="1585665719016" />
+    <state x="614" y="306" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585665126158">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="614" y="306" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.834/1920.0.2560.1050@0.0.1536.834" timestamp="1585665126158" />
+    <state x="570" y="175" key="FileChooserDialogImpl" timestamp="1585666043711">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="570" y="175" key="FileChooserDialogImpl/0.0.1536.834/1920.0.2560.1050@0.0.1536.834" timestamp="1585666043711" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1585666214282">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.834/1920.0.2560.1050@0.0.1536.834" timestamp="1585666214282" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1585665685173">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.2560.1050@0.0.1536.834" timestamp="1585665685173" />
+  </component>
+</project>
