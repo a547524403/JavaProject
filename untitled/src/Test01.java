@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Test01 {
     public static void listToMap() {
-        //System.out.println("-----------------listToMap-------------");
+        System.out.println("-----------------listToMap-------------");
         List<Student> list = new ArrayList<Student>(){{
             add(new Student(1001, "zhangsan", 18, "male", 110));
             add(new Student(1002, "lisi", 16, "male", 120));
@@ -30,7 +30,7 @@ public class Test01 {
     }
 
     public static void mapToList(){
-        //System.out.println("-----------------mapToList-------------");
+        System.out.println("-----------------mapToList-------------");
         Map<Integer,Student> map = new HashMap<Integer, Student>(){{
             put(1001, new Student(1001, "zhangsan", 18, "male", 110));
             put(1002, new Student(1002, "lisi", 16, "male", 120));
